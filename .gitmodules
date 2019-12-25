@@ -1,0 +1,9 @@
+[submodule "css"]
+	path = css
+	url = git@github.com:hzy1123581324/css.git
+[submodule "script"]
+	path = script
+	url = git@github.com:hzy1123581324/script.git
+[submodule "components"]
+	path = components
+	url = git@github.com:hzy1123581324/components.git
